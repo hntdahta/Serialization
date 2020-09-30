@@ -1,0 +1,13 @@
+C:\Users\hntdahta\source\repos\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+C:\Users\hntdahta\source\repos\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+C:\Users\hntdahta\source\repos\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+C:\Users\hntdahta\source\repos\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+C:\Users\hntdahta\source\repos\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\hntdahta\source\repos\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\hntdahta\source\repos\Serialization\obj\Debug\netcoreapp3.1\Serialization.csprojAssemblyReference.cache
+C:\Users\hntdahta\source\repos\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+C:\Users\hntdahta\source\repos\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+C:\Users\hntdahta\source\repos\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\hntdahta\source\repos\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\hntdahta\source\repos\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\hntdahta\source\repos\Serialization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache
